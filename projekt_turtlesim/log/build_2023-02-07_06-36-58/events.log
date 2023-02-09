@@ -1,0 +1,133 @@
+[0.000000] (-) TimerEvent: {}
+[0.002467] (zolw) JobQueued: {'identifier': 'zolw', 'dependencies': OrderedDict()}
+[0.005824] (zolw) JobStarted: {'identifier': 'zolw'}
+[0.098301] (-) TimerEvent: {}
+[0.199259] (-) TimerEvent: {}
+[0.300148] (-) TimerEvent: {}
+[0.401037] (-) TimerEvent: {}
+[0.502331] (-) TimerEvent: {}
+[0.603584] (-) TimerEvent: {}
+[0.705347] (-) TimerEvent: {}
+[0.806007] (-) TimerEvent: {}
+[0.907400] (-) TimerEvent: {}
+[1.008877] (-) TimerEvent: {}
+[1.109389] (-) TimerEvent: {}
+[1.210136] (-) TimerEvent: {}
+[1.312396] (-) TimerEvent: {}
+[1.413361] (-) TimerEvent: {}
+[1.514473] (-) TimerEvent: {}
+[1.615944] (-) TimerEvent: {}
+[1.717531] (-) TimerEvent: {}
+[1.818280] (-) TimerEvent: {}
+[1.919552] (-) TimerEvent: {}
+[2.021065] (-) TimerEvent: {}
+[2.123857] (-) TimerEvent: {}
+[2.232786] (-) TimerEvent: {}
+[2.338240] (-) TimerEvent: {}
+[2.449891] (-) TimerEvent: {}
+[2.554433] (-) TimerEvent: {}
+[2.660763] (-) TimerEvent: {}
+[2.765334] (-) TimerEvent: {}
+[2.878999] (-) TimerEvent: {}
+[2.983303] (-) TimerEvent: {}
+[3.086755] (-) TimerEvent: {}
+[3.190121] (-) TimerEvent: {}
+[3.294762] (-) TimerEvent: {}
+[3.400977] (-) TimerEvent: {}
+[3.505717] (-) TimerEvent: {}
+[3.612547] (-) TimerEvent: {}
+[3.719591] (-) TimerEvent: {}
+[3.828993] (-) TimerEvent: {}
+[3.934465] (-) TimerEvent: {}
+[4.038834] (-) TimerEvent: {}
+[4.152150] (-) TimerEvent: {}
+[4.254754] (-) TimerEvent: {}
+[4.358704] (-) TimerEvent: {}
+[4.460118] (-) TimerEvent: {}
+[4.562265] (-) TimerEvent: {}
+[4.664434] (-) TimerEvent: {}
+[4.766497] (-) TimerEvent: {}
+[4.868060] (-) TimerEvent: {}
+[4.969161] (-) TimerEvent: {}
+[5.070178] (-) TimerEvent: {}
+[5.171657] (-) TimerEvent: {}
+[5.272239] (-) TimerEvent: {}
+[5.373724] (-) TimerEvent: {}
+[5.474739] (-) TimerEvent: {}
+[5.577684] (-) TimerEvent: {}
+[5.678225] (-) TimerEvent: {}
+[5.779567] (-) TimerEvent: {}
+[5.881358] (-) TimerEvent: {}
+[5.919660] (zolw) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/zolw', 'build', '--build-base', '/home/adam/projekt_turtlesim/build/zolw/build', 'install', '--record', '/home/adam/projekt_turtlesim/build/zolw/install.log', '--single-version-externally-managed'], 'cwd': '/home/adam/projekt_turtlesim/src/zolw', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_US', 'USER': 'adam', 'XDG_SEAT': 'seat0', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/adam', 'OLDPWD': '/home/adam', 'DESKTOP_SESSION': 'xubuntu', 'PANEL_GDK_CORE_DEVICE_EVENTS': '0', 'ROS_PYTHON_VERSION': '3', 'XDG_SEAT_PATH': '/org/freedesktop/DisplayManager/Seat0', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'QT_QPA_PLATFORMTHEME': 'gtk2', 'COLCON_PREFIX_PATH': '/home/adam/projekt_turtlesim/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'adam', 'WINDOWID': '65192019', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'CLUTTER_BACKEND': 'x11', 'TERM': 'xterm-256color', 'GTK_OVERLAY_SCROLLING': '0', 'XDG_SESSION_ID': 'c1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/home/adam/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/adam-VirtualBox:@/tmp/.ICE-unix/1038,unix/adam-VirtualBox:/tmp/.ICE-unix/1038', 'GDM_LANG': 'en_US', 'XDG_SESSION_PATH': '/org/freedesktop/DisplayManager/Session0', 'XDG_MENU_PREFIX': 'xfce-', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0.0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'XFCE', 'XDG_SESSION_DESKTOP': 'xubuntu', 'XAUTHORITY': '/home/adam/.Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'XDG_GREETER_DATA_DIR': '/var/lib/lightdm-data/adam', 'AMENT_PREFIX_PATH': '/home/adam/projekt_turtlesim/install/zolw:/opt/ros/humble', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'xubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'XDG_VTNR': '7', 'PWD': '/home/adam/projekt_turtlesim/build/zolw', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-xubuntu:/etc/xdg:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share', 'PYTHONPATH': '/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[5.981711] (-) TimerEvent: {}
+[6.083634] (-) TimerEvent: {}
+[6.184722] (-) TimerEvent: {}
+[6.286270] (-) TimerEvent: {}
+[6.387972] (-) TimerEvent: {}
+[6.490343] (-) TimerEvent: {}
+[6.610188] (-) TimerEvent: {}
+[6.717814] (-) TimerEvent: {}
+[6.821327] (-) TimerEvent: {}
+[6.925070] (-) TimerEvent: {}
+[7.028536] (-) TimerEvent: {}
+[7.134614] (-) TimerEvent: {}
+[7.242347] (-) TimerEvent: {}
+[7.352613] (-) TimerEvent: {}
+[7.461936] (-) TimerEvent: {}
+[7.565171] (-) TimerEvent: {}
+[7.670750] (-) TimerEvent: {}
+[7.777408] (-) TimerEvent: {}
+[7.881661] (-) TimerEvent: {}
+[7.999628] (-) TimerEvent: {}
+[8.104069] (-) TimerEvent: {}
+[8.213309] (-) TimerEvent: {}
+[8.319399] (-) TimerEvent: {}
+[8.420887] (-) TimerEvent: {}
+[8.521665] (-) TimerEvent: {}
+[8.622926] (-) TimerEvent: {}
+[8.725314] (-) TimerEvent: {}
+[8.825915] (-) TimerEvent: {}
+[8.926822] (-) TimerEvent: {}
+[9.029075] (-) TimerEvent: {}
+[9.135381] (-) TimerEvent: {}
+[9.237740] (-) TimerEvent: {}
+[9.340951] (-) TimerEvent: {}
+[9.447927] (-) TimerEvent: {}
+[9.552887] (-) TimerEvent: {}
+[9.656402] (-) TimerEvent: {}
+[9.764087] (-) TimerEvent: {}
+[9.872174] (-) TimerEvent: {}
+[10.004759] (-) TimerEvent: {}
+[10.109308] (-) TimerEvent: {}
+[10.233384] (-) TimerEvent: {}
+[10.337074] (-) TimerEvent: {}
+[10.443536] (zolw) StdoutLine: {'line': b'running egg_info\n'}
+[10.447205] (-) TimerEvent: {}
+[10.549839] (-) TimerEvent: {}
+[10.561500] (zolw) StdoutLine: {'line': b"writing manifest file '../../build/zolw/zolw.egg-info/SOURCES.txt'\n"}
+[10.566501] (zolw) StdoutLine: {'line': b'running build\n'}
+[10.569367] (zolw) StdoutLine: {'line': b'running build_py\n'}
+[10.658823] (-) TimerEvent: {}
+[10.666399] (zolw) StdoutLine: {'line': b'copying zolw/kwadrat.py -> /home/adam/projekt_turtlesim/build/zolw/build/lib/zolw\n'}
+[10.702934] (zolw) StdoutLine: {'line': b'running install\n'}
+[10.732122] (zolw) StdoutLine: {'line': b'running install_lib\n'}
+[10.760573] (-) TimerEvent: {}
+[10.784338] (zolw) StdoutLine: {'line': b'byte-compiling /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw/kwadrat.py to kwadrat.cpython-310.pyc\n'}
+[10.803590] (zolw) StdoutLine: {'line': b'running install_data\n'}
+[10.829855] (zolw) StdoutLine: {'line': b'running install_egg_info\n'}
+[10.861046] (-) TimerEvent: {}
+[10.882259] (zolw) StdoutLine: {'line': b"removing '/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[10.953392] (zolw) StdoutLine: {'line': b'Copying ../../build/zolw/zolw.egg-info to /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info\n'}
+[10.956713] (zolw) StdoutLine: {'line': b'running install_scripts\n'}
+[10.978552] (-) TimerEvent: {}
+[11.135361] (-) TimerEvent: {}
+[11.249516] (-) TimerEvent: {}
+[11.362518] (-) TimerEvent: {}
+[11.483937] (-) TimerEvent: {}
+[11.532442] (zolw) StdoutLine: {'line': b"writing list of installed files to '/home/adam/projekt_turtlesim/build/zolw/install.log'\n"}
+[11.584624] (-) TimerEvent: {}
+[11.688035] (-) TimerEvent: {}
+[11.704356] (zolw) CommandEnded: {'returncode': 0}
+[11.788328] (-) TimerEvent: {}
+[11.819213] (zolw) JobEnded: {'identifier': 'zolw', 'rc': 0}
+[11.828612] (-) EventReactorShutdown: {}

@@ -1,0 +1,16 @@
+[1.442s] Invoking command in '/home/adam/projekt_turtlesim/src/zolw': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed
+[1.995s] running egg_info
+[2.003s] writing manifest file '../../build/zolw/zolw.egg-info/SOURCES.txt'
+[2.004s] running build
+[2.004s] running build_py
+[2.005s] copying zolw/gwiazda.py -> /home/adam/projekt_turtlesim/build/zolw/build/lib/zolw
+[2.006s] running install
+[2.008s] running install_lib
+[2.011s] byte-compiling /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw/gwiazda.py to gwiazda.cpython-310.pyc
+[2.013s] running install_data
+[2.015s] running install_egg_info
+[2.022s] removing '/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info' (and everything under it)
+[2.022s] Copying ../../build/zolw/zolw.egg-info to /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info
+[2.022s] running install_scripts
+[2.059s] writing list of installed files to '/home/adam/projekt_turtlesim/build/zolw/install.log'
+[2.115s] Invoked command in '/home/adam/projekt_turtlesim/src/zolw' returned '0': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed

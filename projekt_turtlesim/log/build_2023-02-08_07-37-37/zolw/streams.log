@@ -1,0 +1,20 @@
+[1.275s] Invoking command in '/home/adam/projekt_turtlesim/src/zolw': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed
+[1.785s] running egg_info
+[1.795s] writing manifest file '../../build/zolw/zolw.egg-info/SOURCES.txt'
+[1.796s] running build
+[1.796s] running build_py
+[1.798s] copying zolw/pieciokat.py -> /home/adam/projekt_turtlesim/build/zolw/build/lib/zolw
+[1.800s] copying zolw/szesciokat.py -> /home/adam/projekt_turtlesim/build/zolw/build/lib/zolw
+[1.802s] copying zolw/kwadrat.py -> /home/adam/projekt_turtlesim/build/zolw/build/lib/zolw
+[1.803s] running install
+[1.804s] running install_lib
+[1.807s] byte-compiling /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw/pieciokat.py to pieciokat.cpython-310.pyc
+[1.809s] byte-compiling /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw/szesciokat.py to szesciokat.cpython-310.pyc
+[1.810s] byte-compiling /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw/kwadrat.py to kwadrat.cpython-310.pyc
+[1.811s] running install_data
+[1.812s] running install_egg_info
+[1.815s] removing '/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info' (and everything under it)
+[1.815s] Copying ../../build/zolw/zolw.egg-info to /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info
+[1.816s] running install_scripts
+[1.860s] writing list of installed files to '/home/adam/projekt_turtlesim/build/zolw/install.log'
+[1.906s] Invoked command in '/home/adam/projekt_turtlesim/src/zolw' returned '0': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed

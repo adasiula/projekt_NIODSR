@@ -1,0 +1,18 @@
+[1.392s] Invoking command in '/home/adam/projekt_turtlesim/src/zolw': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed
+[1.851s] running egg_info
+[1.871s] writing manifest file '../../build/zolw/zolw.egg-info/SOURCES.txt'
+[1.871s] running build
+[1.871s] running build_py
+[1.873s] copying zolw/__init__.py -> /home/adam/projekt_turtlesim/build/zolw/build/lib/zolw
+[1.873s] running install
+[1.875s] running install_lib
+[1.879s] byte-compiling /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw/__init__.py to __init__.cpython-310.pyc
+[1.879s] running install_data
+[1.882s] copying resource/zolw -> /home/adam/projekt_turtlesim/install/zolw/share/ament_index/resource_index/packages
+[1.882s] copying package.xml -> /home/adam/projekt_turtlesim/install/zolw/share/zolw
+[1.882s] running install_egg_info
+[1.885s] removing '/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info' (and everything under it)
+[1.885s] Copying ../../build/zolw/zolw.egg-info to /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info
+[1.887s] running install_scripts
+[1.920s] writing list of installed files to '/home/adam/projekt_turtlesim/build/zolw/install.log'
+[1.953s] Invoked command in '/home/adam/projekt_turtlesim/src/zolw' returned '0': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed

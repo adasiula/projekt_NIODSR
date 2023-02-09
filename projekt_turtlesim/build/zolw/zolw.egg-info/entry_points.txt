@@ -1,0 +1,8 @@
+[console_scripts]
+rysujgwiazda = zolw.gwiazda:main
+rysujkolo = zolw.kolo:main
+rysujkwadrat = zolw.kwadrat:main
+rysujpieciokat = zolw.pieciokat:main
+rysujszesciokat = zolw.szesciokat:main
+rysujwielokat = zolw.wielokat:main
+

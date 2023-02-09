@@ -1,0 +1,16 @@
+[1.497s] Invoking command in '/home/adam/projekt_turtlesim/src/zolw': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed
+[2.135s] running egg_info
+[2.142s] writing manifest file '../../build/zolw/zolw.egg-info/SOURCES.txt'
+[2.142s] running build
+[2.142s] running build_py
+[2.142s] copying zolw/wielokat.py -> /home/adam/projekt_turtlesim/build/zolw/build/lib/zolw
+[2.143s] running install
+[2.144s] running install_lib
+[2.147s] byte-compiling /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw/wielokat.py to wielokat.cpython-310.pyc
+[2.148s] running install_data
+[2.149s] running install_egg_info
+[2.153s] removing '/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info' (and everything under it)
+[2.167s] Copying ../../build/zolw/zolw.egg-info to /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info
+[2.169s] running install_scripts
+[2.206s] writing list of installed files to '/home/adam/projekt_turtlesim/build/zolw/install.log'
+[2.254s] Invoked command in '/home/adam/projekt_turtlesim/src/zolw' returned '0': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed

@@ -1,0 +1,16 @@
+[3.953s] Invoking command in '/home/adam/projekt_turtlesim/src/zolw': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed
+[4.722s] running egg_info
+[4.732s] writing manifest file '../../build/zolw/zolw.egg-info/SOURCES.txt'
+[4.733s] running build
+[4.734s] running build_py
+[4.735s] copying zolw/kwadrat2.py -> /home/adam/projekt_turtlesim/build/zolw/build/lib/zolw
+[4.738s] running install
+[4.740s] running install_lib
+[4.745s] byte-compiling /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw/kwadrat2.py to kwadrat2.cpython-310.pyc
+[4.749s] running install_data
+[4.750s] running install_egg_info
+[4.755s] removing '/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info' (and everything under it)
+[4.756s] Copying ../../build/zolw/zolw.egg-info to /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info
+[4.759s] running install_scripts
+[4.811s] writing list of installed files to '/home/adam/projekt_turtlesim/build/zolw/install.log'
+[4.913s] Invoked command in '/home/adam/projekt_turtlesim/src/zolw' returned '0': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed

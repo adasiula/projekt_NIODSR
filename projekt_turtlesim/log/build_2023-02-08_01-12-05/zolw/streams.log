@@ -1,0 +1,18 @@
+[1.195s] Invoking command in '/home/adam/projekt_turtlesim/src/zolw': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed
+[1.666s] running egg_info
+[1.675s] writing manifest file '../../build/zolw/zolw.egg-info/SOURCES.txt'
+[1.676s] running build
+[1.676s] running build_py
+[1.676s] copying zolw/idealny_ruch.py -> /home/adam/projekt_turtlesim/build/zolw/build/lib/zolw
+[1.677s] copying zolw/kwadrat_easy.py -> /home/adam/projekt_turtlesim/build/zolw/build/lib/zolw
+[1.677s] running install
+[1.678s] running install_lib
+[1.680s] byte-compiling /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw/idealny_ruch.py to idealny_ruch.cpython-310.pyc
+[1.681s] byte-compiling /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw/kwadrat_easy.py to kwadrat_easy.cpython-310.pyc
+[1.683s] running install_data
+[1.684s] running install_egg_info
+[1.686s] removing '/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info' (and everything under it)
+[1.686s] Copying ../../build/zolw/zolw.egg-info to /home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages/zolw-0.0.0-py3.10.egg-info
+[1.688s] running install_scripts
+[1.722s] writing list of installed files to '/home/adam/projekt_turtlesim/build/zolw/install.log'
+[1.764s] Invoked command in '/home/adam/projekt_turtlesim/src/zolw' returned '0': PYTHONPATH=/home/adam/projekt_turtlesim/build/zolw/prefix_override:/home/adam/projekt_turtlesim/install/zolw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/zolw build --build-base /home/adam/projekt_turtlesim/build/zolw/build install --record /home/adam/projekt_turtlesim/build/zolw/install.log --single-version-externally-managed
